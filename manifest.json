@@ -1,0 +1,24 @@
+{
+  "name": "IPL LiveCard",
+  "version": "1.0.0",
+  "description": "To have a quick-bit score, so that you won't get behind of updates",
+  "icons": {
+    "128": "image.png" 
+  },
+  "manifest_version": 3,
+  "author": "Akshay",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "IPL it izz (d rizz)",
+    "default_icon": {
+      "16": "image.png",  
+      "48": "image.png",
+      "128": "image.png"
+    },
+    "icons": {
+      "16": "image.png",   
+      "48": "image.png",
+      "128": "image.png"
+    }
+  }
+}
